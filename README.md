@@ -21,7 +21,7 @@ Results-driven Full Stack Developer with a strong background in Computer Science
 </ul>
     <hr></hr>
  
-- <h3>Full Stack Developer - Enterprise Business Management and Subscription System (EBMSS)</h3>
+- <h3>Frontend Developer - Enterprise Business Management and Subscription System (EBMSS)</h3>
 <h5>🔗 [https://www.trioteachinvoice.today/] 📈📊🏬
 <ul>
     <li align="center">I spearheaded the design and development of a responsive, user-focused frontend for a business management and subscription service platform, leveraging React and React Router to deliver a dynamic Single Page Application (SPA) experience. In tandem, I crafted a RESTful API using Node.js and Express, which enabled smooth communication between frontend and backend systems, facilitating efficient data handling. To ensure optimal performance and scalability, I designed and implemented a MongoDB database schema tailored for swift data storage and retrieval.</li> 
