@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Safa A.</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer 👨🏻‍💻</h3>
 
-# 💻 Portfolio: <h2>[https://www.arusafa.ca/]</h5>
+# 💻 Portfolio: [https://www.arusafa.ca/]
 
 # 💫 About Me:
 
@@ -14,7 +14,7 @@ Results-driven Full Stack Developer with a strong background in Computer Science
 # 🛠️ Projects:
 
 - <h3>Frontend Developer - E-Commerce Platform </h3>
-<h5>🔗 [https://www.triotech.shop/]
+<h5>🔗 [https://www.triotech.shop/] 🛍️🛒
 <ul>
     <li align="center">I engineered robust RESTful APIs with Node.js and Express, enabling seamless integration with frontend applications and third-party services, which facilitated a smooth data exchange. For data management, I implemented a MongoDB schema that efficiently handled user profiles, product catalogs, and transaction data, ensuring the system's high performance and scalability. The platform's frontend was developed using React, offering a dynamic and interactive shopping experience through real-time product updates and fluid navigation.</li>
     <li align="center">To manage the application state effectively, I utilized Redux, which supported features like real-time cart updates, user authentication, and order tracking. The design consistency and responsiveness across various devices were achieved by implementing CSS Modules and React Bootstrap, creating a modern and cohesive user interface. Collaboration with backend developers was key in integrating APIs, ensuring a seamless interaction between the frontend and backend systems. Additionally, I integrated secure authentication and authorization using JWT to protect user data and enhance the platform's overall security.</li> 
@@ -22,7 +22,7 @@ Results-driven Full Stack Developer with a strong background in Computer Science
     <hr></hr>
  
 - <h3>Full Stack Developer - Enterprise Business Management and Subscription System (EBMSS)</h3>
-<h5>🔗 [https://www.trioteachinvoice.today/]
+<h5>🔗 [https://www.trioteachinvoice.today/] 📈📊🏬
 <ul>
     <li align="center">I spearheaded the design and development of a responsive, user-focused frontend for a business management and subscription service platform, leveraging React and React Router to deliver a dynamic Single Page Application (SPA) experience. In tandem, I crafted a RESTful API using Node.js and Express, which enabled smooth communication between frontend and backend systems, facilitating efficient data handling. To ensure optimal performance and scalability, I designed and implemented a MongoDB database schema tailored for swift data storage and retrieval.</li> 
     <li align="center">The interface was refined using Bootstrap and React Bootstrap, ensuring a consistent and visually appealing user experience across various devices. By integrating Chart.js, I provided interactive data visualizations that offered key business insights, supporting data-driven decision-making. User security was prioritized through the implementation of JWT for authentication and authorization, safeguarding access to sensitive information and functionalities. My collaboration with backend developers was pivotal in ensuring the seamless integration of RESTful APIs, which enhanced project synergy and overall functionality.</li> 
@@ -31,7 +31,7 @@ Results-driven Full Stack Developer with a strong background in Computer Science
     <hr></hr>
 
 - <h3>Frontend Developer - Chat-App</h3>
-<h5>🔗 [https://www.triotech.live/]
+<h5>🔗 [https://www.triotech.live/] 💬
 <ul>
     <li align="center">I developed 'Chat-App-2024', a real-time chat application that enables instant messaging in user-created chat rooms, leveraging Node.js, Express, and Socket.io for efficient, bidirectional communication. I engineered robust room functionality that allows users to create or join multiple rooms for private discussions, with features like real-time updates of active participants to boost user engagement. The application boasts a user-friendly interface, designed with responsive HTML/CSS/JS to provide intuitive navigation and interaction for signup, login, and chat functionalities.</li>
     <li align="center">I implemented user authentication and authorization using JWT to ensure secure access to chat rooms and protect user data. In collaboration with backend developers, we integrated Socket.io to enable real-time communication, facilitating instant message delivery and updates. Additionally, MongoDB was integrated for message persistence, ensuring efficient storage and retrieval of chat history and user profiles to maintain data continuity and integrity across sessions.</li>
@@ -40,7 +40,7 @@ Results-driven Full Stack Developer with a strong background in Computer Science
     <hr></hr>
 
 - <h3>Frontend Developer - Mavna Trade</h3>
-<h5>🔗 [https://mavna-trade-inc.vercel.app/]
+<h5>🔗 [https://mavna-trade-inc.vercel.app/] 🏪🛍️
 <ul>
     <li align="center">I integrated Firebase services, including Cloud Firestore for effective database management and Firebase Storage for managing file uploads and secure downloads, incorporating comprehensive error handling mechanisms for file operations. In parallel, I developed a responsive and visually appealing user interface using a combination of React, Bootstrap, CSS, and Ant Design to ensure a seamless user experience across various devices and screen sizes. For user authentication and authorization, I employed Firebase Authentication to provide secure access to user-specific data and functionalities.</li>
     <li align="center"> 
@@ -75,18 +75,18 @@ Results-driven Full Stack Developer with a strong background in Computer Science
 <hr></hr>
 <hr></hr>
 
-- <h3 align="center">Deployments</h3>
+<h3 align="center">Deployments</h3>
 <p align="center"> 
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%23000000) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) </p>
 
 
-- <h3 align="center">Tools</h3>
+<h3 align="center">Tools</h3>
 <p align="center"> 
 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) </p>
 
-- <h3 align="center">UI/UX Design</h3>
+<h3 align="center">UI/UX Design</h3>
 <p align="center"> 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) </p>
