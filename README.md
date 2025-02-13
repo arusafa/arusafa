@@ -37,9 +37,12 @@ Results-driven **Front-End Developer** with **Full-Stack experience**, specializ
 - <h3>Junior Full-Stack Developer - TrioTech</h3>
 <h5>🔗 [https://www.triotech.shop/] 🛍️🛒
 <ul>
-    <li align="center">Developed secure, scalable RESTful APIs and integrated Chart.js for enhanced data visualization, providing 35% more actionable business insights.</li>
-    <li align="center">Implemented JWT authentication and real-time communication features, improving user retention and security.</li>
-    <li align="center">Promoted coding best practices and project management, increasing team productivity by 25%.</li>
+    <li align="center">Developed secure, scalable RESTful APIs with Node.js and Express, enabling seamless integration with frontend applications and third-party services, which facilitated smooth data exchange.</li>
+    <li align="center">Implemented a MongoDB schema to efficiently handle user profiles, product catalogs, and transaction data, ensuring high performance and scalability.</li>
+    <li align="center">Built the frontend using React, offering a dynamic and interactive shopping experience through real-time product updates and fluid navigation.</li>
+    <li align="center">Utilized Redux for state management, supporting features like real-time cart updates, user authentication, and order tracking.</li>
+    <li align="center">Designed a responsive and modern user interface using CSS Modules and React Bootstrap, ensuring consistency across devices.</li>
+    <li align="center">Integrated secure authentication and authorization using JWT to protect user data and enhance platform security.</li>
 </ul>
     <hr></hr>
 
