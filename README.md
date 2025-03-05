@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Safa A.</h1>
-<h3 align="center">Front-End Developer with Full-Stack Experience 👨🏻‍💻</h3>
+<h3 align="center">Front-End Developer with a Passion for Learning and Collaboration 👨🏻‍💻</h3>
 
 # 💻 Portfolio: [https://www.arusafa.ca/]
 
 # 💫 About Me:
 
-Results-driven **Front-End Developer** with **Full-Stack experience**, specializing in **JavaScript, React.js, and Angular**. Skilled in building responsive, high-performance web applications and integrating scalable back-end solutions. Proven track record of increasing **user engagement by 30%** and optimizing **application performance by 25%**. Passionate about creating seamless user experiences and leveraging modern technologies to solve complex problems.
+Eager and dedicated **Front-End Developer** with foundational knowledge in **JavaScript, React.js, and Angular**. I am keen on refining my skills and contributing to team success in a dynamic development environment. Excited to bring a strong passion for learning and effective collaboration to your team.
 
 ## 🌐 Socials:
 
@@ -17,42 +17,34 @@ Results-driven **Front-End Developer** with **Full-Stack experience**, specializ
 - <h3>Frontend Developer - Sword Garage Web & Mobile App</h3>
 <h5>🔗 [https://www.swordgarage.com/] 🚗📱
 <ul>
-    <li align="center">Designed and developed multilingual web applications, increasing user engagement by 30% across global markets.</li>
-    <li align="center">Optimized application performance by 25% through advanced RESTful API integrations and customizations.</li>
-    <li align="center">Collaborated with UX/UI teams to refine designs, improving customer satisfaction scores by 15%.</li>
-    <li align="center">Led Agile development cycles, reducing time-to-market by 20% through rapid prototyping and iterative updates.</li>
+    <li align="center">Assisted in developing multilingual web applications, enhancing user interface components and accessibility.</li>
+    <li align="center">Supported SEO initiatives, implementing React Helmet and configuring sitemaps to improve search engine rankings.</li>
+    <li align="center">Contributed to backend connectivity and frontend security features using a secure Flask-based authentication system.</li>
 </ul>
     <hr></hr>
  
 - <h3>Frontend Developer - Nexyra Management Tech</h3>
 <h5>🔗 [https://www.nexyra.com/] 📈📊
 <ul>
-    <li align="center">Engineered personalized content delivery systems using customer data models, boosting user interaction by 40%.</li> 
-    <li align="center">Spearheaded back-end performance enhancements, reducing load times by 20% and improving system responsiveness.</li>
-    <li align="center">Implemented CI/CD pipelines, reducing downtime and increasing deployment speed by 30%.</li>
-    <li align="center">Drove Agile sprint methodologies, reducing feature deployment time by 15%.</li>
+    <li align="center">Engineered a user-friendly front-end for a personalized content delivery system using React.js, enhancing user engagement through dynamic interfaces.</li>
+    <li align="center">Participated in the integration of secure backend services to improve system performance and reliability.</li>
+    <li align="center">Assisted in implementing CI/CD pipelines, facilitating smoother deployments and continuous integration processes.</li>
 </ul>
     <hr></hr>
 
 - <h3>Junior Full-Stack Developer - TrioTech</h3>
 <h5>🔗 [https://www.triotech.shop/] 🛍️🛒
 <ul>
-    <li align="center">Developed secure, scalable RESTful APIs with Node.js and Express, enabling seamless integration with frontend applications and third-party services, which facilitated smooth data exchange.</li>
-    <li align="center">Implemented a MongoDB schema to efficiently handle user profiles, product catalogs, and transaction data, ensuring high performance and scalability.</li>
-    <li align="center">Built the frontend using React, offering a dynamic and interactive shopping experience through real-time product updates and fluid navigation.</li>
-    <li align="center">Utilized Redux for state management, supporting features like real-time cart updates, user authentication, and order tracking.</li>
-    <li align="center">Designed a responsive and modern user interface using CSS Modules and React Bootstrap, ensuring consistency across devices.</li>
-    <li align="center">Integrated secure authentication and authorization using JWT to protect user data and enhance platform security.</li>
+    <li align="center">Supported the development and integration of RESTful APIs and MongoDB database schemas, enhancing platform functionality and scalability.</li>
+    <li align="center">Contributed to dynamic user interfaces and state management for improved shopping experiences using React and Redux.</li>
 </ul>
     <hr></hr>
 
 - <h3>Frontend Developer - Mavna Trade</h3>
 <h5>🔗 [https://mavna-trade-inc.vercel.app/] 🏪🛍️
 <ul>
-    <li align="center">Built a complex React application with Firebase, enabling real-time data synchronization and dynamic content management.</li>
-    <li align="center">Designed responsive user interfaces, ensuring high performance and consistency across multiple devices.</li>
-    <li align="center">Integrated Firebase’s database and storage solutions, reducing data management errors by 20%.</li>
-    <li align="center">Developed advanced communication features, increasing customer engagement and support capabilities.</li>
+    <li align="center">Supported the development of real-time data synchronization features using Firebase in a React-based application.</li>
+    <li align="center">Contributed to designing responsive user interfaces, ensuring compatibility and performance across multiple devices.</li>
 </ul>
     <hr></hr>
     <hr></hr>
