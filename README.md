@@ -12,27 +12,42 @@ I am a **Junior Front-End Developer** based in North York, ON, specializing in c
 - **GitHub:** [github.com/arusafa](https://github.com/arusafa)
 - **Portfolio:** [arusafa.ca](https://www.arusafa.ca)
 
-## 🛠️ Key Projects
+## 🛠️ Experinces
 
-### Sword Garage Web & Mobile App
-- **Role:** Full-Stack Developer Intern
-- **Details:** Enhanced user interface components for a multilingual landing page and contributed to SEO optimization using React Helmet.
-- **URL:** [https://www.swordgarage.com/](https://www.swordgarage.com/)
+### Sword Garage
+- **Role:** Full-Stack Developer
+- **Details:**
+  - Developed a multilingual landing page, significantly enhancing user accessibility and interface customization.
+  - Implemented SEO optimizations including React Helmet and sitemaps, boosting search engine visibility.
+  - Integrated a secure Flask-based authentication system to ensure robust backend connectivity and frontend security.
 
 ### Nexyra Management Tech
-- **Role:** Full-Stack Developer Intern
-- **Details:** Developed user-friendly front-ends for content delivery systems and assisted in backend service integration to enhance system performance.
-- **URL:** [https://www.nexyra.com/](https://www.nexyra.com/)
+- **Role:** Full-Stack Developer
+- **Details:**
+  - Designed and implemented a user-friendly front-end for a personalized content delivery system using React.js, enhancing user engagement.
+  - Built and integrated secure backend services with Flask to manage customer data and improve system reliability.
+  - Supported CI/CD pipeline implementation, streamlining deployment processes and enhancing operational efficiency.
 
 ### TrioTech
 - **Role:** Full-Stack Development Intern
-- **Details:** Supported development and integration of RESTful APIs and contributed to frontend development efforts using React and Redux.
-- **URL:** [https://www.triotech.shop/](https://www.triotech.shop/)
+- **Details:**
+  - Assisted in the development and integration of RESTful APIs using Node.js, enhancing platform functionality and scalability.
+  - Contributed to frontend development with React and Redux, focusing on dynamic user interfaces and real-time state management.
+  - Implemented CSS Modules and React Bootstrap to ensure a responsive and aesthetically pleasing user experience across all devices.
 
 ### Mavna Trade
 - **Role:** Front-End Development Intern
-- **Details:** Aided in the development of real-time data synchronization features using Firebase and responsive design.
-- **URL:** [https://mavna-trade-inc.vercel.app/](https://mavna-trade-inc.vercel.app/)
+- **Details:**
+  - Supported the development of a real-time data synchronization feature using Firebase, enhancing the responsiveness of the application.
+  - Designed and implemented responsive UIs that maintained performance and usability across various devices.
+  - Integrated Firebase's database and storage solutions, streamlining data management and increasing operational reliability.
+
+### TechNova Innovations
+- **Role:** Front-End Development Intern
+- **Details:**
+  - Supported the design and implementation of a user-centric frontend using React and React Router, improving platform integration and functionality.
+  - Assisted in the development of a MongoDB database schema to optimize data storage and retrieval.
+  - Contributed to the integration of Chart.js for dynamic data visualization, enhancing user decision-making capabilities.
 
 ## 🎓 Education
 
