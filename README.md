@@ -1,87 +1,86 @@
-<h1 align="center">Hi 👋, I'm Safa Aru</h1>
-<h2 align="center">Junior Front-End Developer | Eager to Learn and Grow</h2>
+<h1 align="center">👋 Hello, I'm Safa Aru</h1>
+<h2 align="center">🌟 Junior Front-End Developer | Aspiring to Excel 🌟</h2>
 
-## 📝 Introduction
+<div align="center">
+  <a href="https://linkedin.com/in/safaaru">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/arusafa">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.arusafa.ca">
+    <img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</div>
 
-I am a **Junior Front-End Developer** based in North York, ON, specializing in creating dynamic and responsive web applications. With foundational skills in **JavaScript, React.js, and Angular**, I am passionate about continuous learning and applying new technologies to solve real-world problems. My goal is to contribute positively to a team while honing my skills and advancing my career in software development.
+<br/>
 
-## 📬 Contact Me
+## 📜 Introduction
 
-- **Email:** safaaru@outlook.com
-- **LinkedIn:** [linkedin.com/in/safaaru](https://linkedin.com/in/safaaru)
-- **GitHub:** [github.com/arusafa](https://github.com/arusafa)
-- **Portfolio:** [arusafa.ca](https://www.arusafa.ca)
+I am a **Junior Front-End Developer** from North York, ON. I specialize in **JavaScript, React.js, and Angular**, aiming to leverage my skills to build dynamic, responsive web applications that deliver seamless user experiences. I am committed to lifelong learning and passionate about contributing to team success.
 
-## 🛠️ Experinces
+## 🚀 Key Projects
 
-### Sword Garage
-- **Role:** Full-Stack Developer
-- **Details:**
-  - Developed a multilingual landing page, significantly enhancing user accessibility and interface customization.
-  - Implemented SEO optimizations including React Helmet and sitemaps, boosting search engine visibility.
-  - Integrated a secure Flask-based authentication system to ensure robust backend connectivity and frontend security.
+### 🚗 Sword Garage Web & Mobile App
+**Role:** Full-Stack Developer Intern
+- **Enhanced Accessibility:** Developed a multilingual landing page, improving user interface and accessibility.
+- **SEO Optimization:** Implemented SEO strategies including React Helmet and sitemaps, significantly improving search engine rankings.
+- **Secure Authentication:** Integrated a secure Flask-based authentication system enhancing security and connectivity.
 
-### Nexyra Management Tech
-- **Role:** Full-Stack Developer
-- **Details:**
-  - Designed and implemented a user-friendly front-end for a personalized content delivery system using React.js, enhancing user engagement.
-  - Built and integrated secure backend services with Flask to manage customer data and improve system reliability.
-  - Supported CI/CD pipeline implementation, streamlining deployment processes and enhancing operational efficiency.
+### 📈 Nexyra Management Tech
+**Role:** Full-Stack Developer Intern
+- **Content Delivery System:** Crafted dynamic front-ends for content delivery systems, boosting user engagement.
+- **Backend Integration:** Streamlined customer data management with Flask backend services, boosting system performance.
+- **CI/CD Pipelines:** Enhanced deployment processes through effective CI/CD implementations, facilitating smoother operations.
 
-### TrioTech
-- **Role:** Full-Stack Development Intern
-- **Details:**
-  - Assisted in the development and integration of RESTful APIs using Node.js, enhancing platform functionality and scalability.
-  - Contributed to frontend development with React and Redux, focusing on dynamic user interfaces and real-time state management.
-  - Implemented CSS Modules and React Bootstrap to ensure a responsive and aesthetically pleasing user experience across all devices.
+### 🛍️ TrioTech
+**Role:** Full-Stack Development Intern
+- **API Development:** Aided in developing RESTful APIs that enhanced functionality and scalability.
+- **UI Contributions:** Improved shopping experiences by developing dynamic user interfaces with React and Redux.
+- **Responsive Design:** Applied CSS Modules and React Bootstrap to ensure responsiveness across devices.
 
-### Mavna Trade
-- **Role:** Front-End Development Intern
-- **Details:**
-  - Supported the development of a real-time data synchronization feature using Firebase, enhancing the responsiveness of the application.
-  - Designed and implemented responsive UIs that maintained performance and usability across various devices.
-  - Integrated Firebase's database and storage solutions, streamlining data management and increasing operational reliability.
+### 🏪 Mavna Trade
+**Role:** Front-End Development Intern
+- **Real-time Sync:** Developed features using Firebase for real-time data synchronization.
+- **Responsive UIs:** Designed interfaces that maintain performance across devices.
+- **Data Management:** Integrated robust database solutions to enhance data reliability.
 
-### TechNova Innovations
-- **Role:** Front-End Development Intern
-- **Details:**
-  - Supported the design and implementation of a user-centric frontend using React and React Router, improving platform integration and functionality.
-  - Assisted in the development of a MongoDB database schema to optimize data storage and retrieval.
-  - Contributed to the integration of Chart.js for dynamic data visualization, enhancing user decision-making capabilities.
+### 🖥️ TechNova Innovations
+**Role:** Front-End Development Intern
+- **User-Centric Design:** Assisted in developing responsive front-ends with React, enhancing user interaction and accessibility.
+- **Database Optimization:** Contributed to MongoDB schema designs, optimizing data storage and retrieval.
+- **Data Visualization:** Integrated Chart.js for dynamic data visualizations, supporting user decision-making.
 
 ## 🎓 Education
 
 **George Brown College, Toronto, ON**
 - **Degree:** Advanced Diploma in Computer Programming and Analysis (Honours)
 - **Graduation:** April 2023
-- **Capstone Project:** Developed an e-commerce platform for online tutoring, enhancing user interaction and retention.
+- **Capstone Project:** Developed an e-commerce platform for online tutoring, increasing user retention.
 
 ## 🏅 Certifications
 
-- **Full-Stack JavaScript Development** (MongoDB, Node, and React)
+- **JavaScript Full-Stack Development**
 - **ReactJs Essential Training**
 - **TypeScript Essential Training**
-- **Building Web APIs with ASP.NET Core**
-- **Next.js**
-- **Java and Python Object-Oriented Programming Concepts**
+- **ASP.NET Core Web APIs**
+- **Advanced Next.js**
 
-## 🛠 Tech Stack
+## 🔧 Technologies
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=flat-square&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-E23237?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=arusafa&theme=light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arusafa&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Visit Count -->
-[![Visits Badge](https://badges.pufler.dev/visits/arusafa/arusafa)](https://badges.pufler.dev)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arusafa&theme=default&hide_border=true" alt="Safa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arusafa&theme=default&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
 
 <!-- This README was updated using Markdown -->
